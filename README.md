@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonhahnfeld&label=Profile%20views&color=0e75b6&style=flat" alt="marlonhahnfeld" /> </p>
 
-- 🌱 I’m currently learning **React, Tailwindcss & more**
+- 🌱 I’m currently practicing **Full-Stack Web developement with Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
