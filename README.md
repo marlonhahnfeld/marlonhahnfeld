@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonhahnfeld&label=Profile%20views&color=0e75b6&style=flat" alt="marlonhahnfeld" /> </p>
 
-- 🌱 I’m currently practicing **Full-Stack Web developement with Nextjs**
+- 🌱 I’m currently working on integrating **AI** into **Apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
